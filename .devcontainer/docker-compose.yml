@@ -1,7 +1,6 @@
 version: "3.7"
 services:
   linux-in-practice:
-    container_name: linux-in-practice
     build:
       context: .
       dockerfile: Dockerfile
