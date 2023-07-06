@@ -1,0 +1,7 @@
+
+{
+	"name": "linux-in-practice",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "linux-in-practice",
+	"workspaceFolder": "/work"
+}
